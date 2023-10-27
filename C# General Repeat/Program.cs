@@ -37,3 +37,23 @@ while (true)
     }
 }
 #endregion
+#region task3
+Console.WriteLine(" 5 reqemli ededi daxil edin");
+int num3 = int.Parse(Console.ReadLine());
+string str3 = num3.ToString();
+while (true)
+{
+    if (str3.Length == 5)
+    {
+        double tempresult5 = (num3 * 0.18);
+        double result5 = tempresult5 * 0.03;
+        Console.WriteLine(result5);
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Yanlış formatda eded daxil etdiniz. Yeniden daxil edin.");
+        str3 = Console.ReadLine();
+    }
+}
+#endregion
