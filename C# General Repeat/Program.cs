@@ -120,6 +120,31 @@ while (true)
         str6 = Console.ReadLine();
     }
 }
+#region task7
+int num7 = int.Parse(Console.ReadLine());
+int num8 = int.Parse(Console.ReadLine());
+string str8 = num8.ToString();
+string str7 = num7.ToString();
+while (true)
+{
+    if (str7.Length == 5 && str8.Length == 5)
+    {
+        int firstPart = num7 + num8;
+        string firstPartString = firstPart.ToString();
+        string result1 = "5" + firstPartString + "5";
+        int resultPart2 = int.Parse(result1);
+        double lastResult = resultPart2 * 0.05;
+        Console.WriteLine(lastResult);
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Duzgun formatda eded daxil etmediniz.");
+        str7 = Console.ReadLine();
+        str8 = Console.ReadLine();
+    }
+}
+#endregion
 #endregion
 
 
