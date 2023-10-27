@@ -1,0 +1,14 @@
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\bin\Debug\net6.0\C# General Repeat.exe
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\bin\Debug\net6.0\C# General Repeat.deps.json
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\bin\Debug\net6.0\C# General Repeat.runtimeconfig.json
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\bin\Debug\net6.0\C# General Repeat.dll
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\bin\Debug\net6.0\C# General Repeat.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.AssemblyInfoInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.AssemblyInfo.cs
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.dll
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\refint\C# General Repeat.dll
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\C# General Repeat.genruntimeconfig.cache
+C:\Users\TeymurDev\Desktop\C# Projects\C# General Repeat\C# General Repeat\obj\Debug\net6.0\ref\C# General Repeat.dll
