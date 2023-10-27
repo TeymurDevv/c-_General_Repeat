@@ -100,5 +100,27 @@ while (true)
     }
 }
 #endregion
+#region task6
+Console.WriteLine("4remli eded daxil edin");
+int num6 = int.Parse(Console.ReadLine());
+string str6 = num6.ToString();
+while (true)
+{
+    if (str6.Length == 4)
+    {
+        double firstCalculationPart = num6 * 0.20;
+        double SecondCalculationPart = firstCalculationPart * 0.10;
+        double result = SecondCalculationPart * SecondCalculationPart;
+        Console.WriteLine(result);
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Duzgun formatda eded daxil etmediniz.");
+        str6 = Console.ReadLine();
+    }
+}
+#endregion
+
 
 
