@@ -79,5 +79,26 @@ while (true)
     }
 }
 #endregion
+#region task5
+Console.WriteLine("4 reqemli eded daxil edin");
+int num5 = int.Parse(Console.ReadLine());
+string str5 = num5.ToString();
+while (true)
+{
+    if (str5.Length == 4)
+    {
+        string result2 = "4" + str5 + "44";
+        int resultInt = int.Parse(result2);
+        double lastResult = resultInt * 0.44;
+        Console.WriteLine(lastResult);
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Duzgun formatda eded daxil etmediniz.");
+        str5 = Console.ReadLine();
+    }
+}
+#endregion
 
 
